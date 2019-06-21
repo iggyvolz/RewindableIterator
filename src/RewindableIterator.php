@@ -1,6 +1,6 @@
 <?php
 declare (strict_types = 1);
-namespace Iggyvolz\RegistryParser;
+namespace Iggyvolz\RewindableIterator;
 
 /**
  * Make any iterator rewindable without needing to get the new values again
