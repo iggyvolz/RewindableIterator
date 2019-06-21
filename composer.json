@@ -1,0 +1,19 @@
+{
+    "name": "iggyvolz/rewindable-iterator",
+    "description": "Make any iterator rewindable",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Katie Volz",
+            "email": "iggyvolz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Iggyvolz\\RewindableIterator\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
